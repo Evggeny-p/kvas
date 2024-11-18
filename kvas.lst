@@ -1,6 +1,5 @@
 *deepstatemap.live
 *googletagmanager.com
-*googlevideo.com
 *habr.com
 *huawei.com
 *instagram.com
@@ -23,9 +22,6 @@
 *xv-ru.com
 *xvideos-cdn.com
 *xvideos.com
-*youtu.be
-*youtube-nocookie.com
-*youtube.com
 *youtubekids.com
 *ytimg.com
 *yting.com
@@ -35,19 +31,13 @@ designer.microsoft.com
 gemini.google.com
 lookerstudio.google.com
 news.google.com
-play.google.com
 public.parsec.app
 suggestqueries.google.com
-wide-youtube.l.google.com
 youtube-ui.l.google.com
-youtubeembeddedplayer.googleapis.com
-youtubei.googleapis.com
-ytimg.l.google.com
 bestweapon.one
 *download.nvidia.com 
 nvidia.com
 *googlevideo.com
-yt3.ggpht.com
 *youtube.com
 i.ytimg.com
 youtubei.googleapis.com
@@ -79,3 +69,6 @@ auth0.openai.com
 *files.oaiusercontent.com
 *api.openai.com
 *cdninstagram.com
+instagramstatic.com
+igcdn-photos-e-a.akamaihd.net
+akamaihd.net
